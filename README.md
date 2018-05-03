@@ -1,6 +1,7 @@
 # Batch Service
 
-This is simple service witch allow to make batch request to an existing API. Application is on Express.js sever and have one endpoint to use (POST '/batch').
+This is simple service which allow to make batch request to an existing API. Application is on Express.js sever and have one endpoint to use (POST '/batch').
+Batch system has simple retry mechanism. In case when server is unavailable it retry just one more time.
 
 ## Getting Started
 
