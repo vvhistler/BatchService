@@ -130,6 +130,6 @@ When you POST this body to http://localhost:3000/batch you should get result lik
 
 ## Authors
 
-* **Vasyl Kobyletskyi** - *Initial work*
+* **Vasyl Kobyletskyi**
 
 
