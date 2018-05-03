@@ -1,0 +1,14 @@
+{
+  "name": "batch-service",
+  "version": "1.0.0",
+  "description": "The service to run batch requests on existing API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vasyl Kobyletskyi",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
